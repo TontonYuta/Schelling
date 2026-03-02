@@ -50,7 +50,7 @@ In discrete models, agents often get trapped in infinite *limit cycles*.
 
 Experience the real-time simulation here:
 
-👉 **[Học cùng Yuta - Schelling Simulation](https://hoc-cung-yuta.vercel.app)**
+👉 **[Schelling Simulation](https://Schelling-zeta.vercel.app)**
 
 ---
 
