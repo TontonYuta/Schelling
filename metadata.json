@@ -1,0 +1,5 @@
+{
+  "name": "Continuous Schelling Segregation Model",
+  "description": "A high-performance simulation of the Schelling segregation model in continuous space using KD-Tree for efficient neighbor searching.",
+  "requestFramePermissions": []
+}
